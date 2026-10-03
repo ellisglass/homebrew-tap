@@ -1,28 +1,28 @@
-# Homebrew Tap for Xomsky
+# Homebrew Tap for NNTS
 
-Official Homebrew Tap for [Xomsky](https://github.com/unacau/mac-productivity-suite) — Driverless Caps-Lock remapper & Chrome profile switcher for macOS written in pure Swift 6.
+Official Homebrew Tap for [NNTS](https://github.com/unacau/nnts) — Driverless Caps-Lock remapper, Chrome profile switcher & Copy-on-Select productivity suite for macOS in pure Swift 6.
 
 ## Installation
 
 ```bash
-brew install unacau/tap/xomsky
+brew install unacau/tap/nnts
 ```
 
 Or:
 
 ```bash
 brew tap unacau/tap
-brew install --cask xomsky
+brew install --cask nnts
 ```
 
 ## Update
 
 ```bash
-brew upgrade xomsky
+brew upgrade nnts
 ```
 
 ## Uninstall
 
 ```bash
-brew uninstall --zap xomsky
+brew uninstall --zap nnts
 ```
